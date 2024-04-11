@@ -21,14 +21,18 @@ Deploy the application on a cloud platform to achieve scalability and reliabilit
 User Account Management:
 Allow customers to create and manage their accounts.
 Enable restaurant staff to access and manage customer information securely.
+
 Reservation System:
 Provide a user interface for customers to make, view, and cancel reservations.
 Allow restaurant staff to manage booking availability and handle reservation requests.
+
 Notifications:
 Implement notification systems to alert customers and restaurant staff about reservation updates, confirmations, and cancellations.
+
 Scalability and Maintenance:
 Design the system using a microservices architecture to ensure scalability and easy maintenance.
 Utilize cloud services for database management, authentication, and deployment to achieve scalability and reliability.
+
 Security and Privacy:
 Implement data encryption, secure authentication, and authorization mechanisms to protect user data and ensure privacy compliance.
 
@@ -41,7 +45,9 @@ Objective: Adopt agile development practices to manage project work effectively.
 
 The project will follow the Agile methodology, consisting of:
 Sprint Planning: Plan work in sprints, defining tasks, timelines, and priorities.
+
 Daily Stand-ups: Conduct daily meetings to discuss progress, challenges, and plan for the day.
+
 Retrospectives: Hold regular retrospectives to reflect on the sprint, identify areas for improvement, and adapt processes.
 
 
@@ -76,8 +82,11 @@ Objective: Design the system architecture, choose technologies, and justify arch
 ## Architecture Overview
 
 Frontend: Develop a responsive web application using HTML, CSS, and JavaScript frameworks like React.
+
 Backend: Use Node.js with Express.js for RESTful API development.
+
 Database: Utilize MySQL for data storage, considering scalability and performance requirements.
+
 Microservices: Design microservices for user management, reservation handling, notifications, and other key functionalities.
 
 
