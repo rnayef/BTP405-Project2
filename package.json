@@ -1,0 +1,19 @@
+{
+    "name": "BTP405-Project2",
+    "version": "1.0.0",
+    "description": "Cloud-Based Restaurant Reservation System",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/rnayef/BTP405-Project2.git"
+    },
+    "author": "RN",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/rnayef/BTP405-Project2/issues"
+    },
+    "homepage": "https://github.com/rnayef/BTP405-Project2#readme"
+}
