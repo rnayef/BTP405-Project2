@@ -109,8 +109,11 @@ Objective: Deploy the application on a cloud platform and design it using micros
 ## Microservices Design
 
 User Management Microservice: Handles user authentication, authorization, and profile management.
+
 Reservation Microservice: Manages reservation requests, availability, and notifications.
+
 Notification Microservice: Sends notifications to users and staff about reservation updates.
+
 Deployment: Use containerization with Docker and orchestration with Kubernetes for managing microservices.
 
 
@@ -121,8 +124,11 @@ Objective: Implement security measures and ensure data privacy.
 ## Security Measures
 
 Data Encryption: Encrypt sensitive data in transit and at rest using TLS and encryption algorithms.
+
 Secure Authentication: Implement OAuth 2.0 or JWT for secure user authentication.
+
 Authorization: Use role-based access control (RBAC) to manage user permissions.
+
 Compliance: Ensure compliance with GDPR, CCPA, and other privacy regulations regarding user data.
 
 
@@ -133,15 +139,20 @@ Objective: Apply reliable programming principles and comprehensive testing.
 ## Reliable Programming
 
 Exception Handling: Handle exceptions gracefully to prevent application crashes.
+
 Input Validation: Validate user inputs to prevent injection attacks and data corruption.
+
 Robustness: Design the system to be resilient against failures and edge cases.
 
 
 ## Testing Strategy
 
 Unit Testing: Test individual components and functions for correctness and reliability.
+
 Integration Testing: Verify the interaction between different modules and services.
+
 System Testing: Conduct end-to-end testing to validate system functionality and user scenarios.
+
 Automated Testing: Implement automated tests using tools like Jest, Mocha, and Selenium for continuous testing.
 
 
