@@ -159,15 +159,19 @@ Automated Testing: Implement automated tests using tools like Jest, Mocha, and S
 ## Example Endpoints Using Postman
 
 ## GET /tables: 
+
 Retrieve all tables 
 
 ## POST /tables: 
+
 To Create a new table.
 
 ## GET /tables/{table_id}: 
+
 Will retrieve details of a specific table by ID.
 
 ## PUT /tables/{table_id}: 
+
 Update details of a specific table by ID.
 
 ## DELETE /tables/{table_id}: 
