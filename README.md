@@ -156,4 +156,36 @@ System Testing: Conduct end-to-end testing to validate system functionality and 
 Automated Testing: Implement automated tests using tools like Jest, Mocha, and Selenium for continuous testing.
 
 
+## Example Endpoints Using Postman
+
+## GET /tables: 
+Retrieve all tables 
+
+## POST /tables: 
+To Create a new table.
+
+## GET /tables/{table_id}: 
+Will retrieve details of a specific table by ID.
+
+## PUT /tables/{table_id}: 
+Update details of a specific table by ID.
+
+## DELETE /tables/{table_id}: 
+Delete a specific table by ID.
+
+
+## Same thing for customers 
+GET /customers: 
+POST /customers: 
+GET /customers/{customer_id}: 
+PUT /customers/{customer_id}: 
+DELETE /customers/{customer_id}: 
+
+## same for  reservation
+GET /reservations: 
+POST /reservations: 
+GET /reservations/{reservation_id}: 
+PUT /reservations/{reservation_id}: 
+DELETE /reservations/{reservation_id}: 
+
 
