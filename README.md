@@ -159,7 +159,6 @@ Automated Testing: Implement automated tests using tools like Jest, Mocha, and S
 ## Example Endpoints Using Postman
 
 ## GET /tables: 
-
 Retrieve all tables 
 
 ## POST /tables: 
